@@ -2,10 +2,10 @@
   key: {
     remoteJid: '51949947342@s.whatsapp.net',
     fromMe: false,
-    id: '5A2C9B66A9472D134DCBC47035241BA5',
+    id: 'BB676FF895BA1F8BD14472F6856DC99D',
     participant: undefined
   },
-  messageTimestamp: 1693472150,
+  messageTimestamp: 1693475773,
   pushName: 'Heidy',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '51949947342'
 }
 [sendQueue_A]:  {
-  ref: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
-  keyword: 'key_556eba1a-5063-4346-bf2c-22cad89dc77d',
+  ref: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
+  keyword: 'key_6d993da5-789d-404d-a60f-eda6cb5c4a92',
   answer: '🙌 Hola bienvenido a este *Chatbot* del Centro de Datos DIRTIC PNP',
   options: {
     media: null,
@@ -32,11 +32,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8012517ab35510a263230ad354e2ca26'
+  refSerialize: '8d2f9aee0b7615152d52f14a64004cd9'
 }
 [sendProviderAndSave]:  {
-  ref: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
-  keyword: 'key_556eba1a-5063-4346-bf2c-22cad89dc77d',
+  ref: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
+  keyword: 'key_6d993da5-789d-404d-a60f-eda6cb5c4a92',
   answer: '🙌 Hola bienvenido a este *Chatbot* del Centro de Datos DIRTIC PNP',
   options: {
     media: null,
@@ -48,11 +48,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8012517ab35510a263230ad354e2ca26'
+  refSerialize: '8d2f9aee0b7615152d52f14a64004cd9'
 }
 [providerClass.sendMessage]:  {
-  ref: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
-  keyword: 'key_556eba1a-5063-4346-bf2c-22cad89dc77d',
+  ref: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
+  keyword: 'key_6d993da5-789d-404d-a60f-eda6cb5c4a92',
   answer: '🙌 Hola bienvenido a este *Chatbot* del Centro de Datos DIRTIC PNP',
   options: {
     media: null,
@@ -64,11 +64,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8012517ab35510a263230ad354e2ca26'
+  refSerialize: '8d2f9aee0b7615152d52f14a64004cd9'
 }
 [databaseClass.save]:  {
-  ref: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
-  keyword: 'key_556eba1a-5063-4346-bf2c-22cad89dc77d',
+  ref: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
+  keyword: 'key_6d993da5-789d-404d-a60f-eda6cb5c4a92',
   answer: '🙌 Hola bienvenido a este *Chatbot* del Centro de Datos DIRTIC PNP',
   options: {
     media: null,
@@ -80,11 +80,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8012517ab35510a263230ad354e2ca26'
+  refSerialize: '8d2f9aee0b7615152d52f14a64004cd9'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
-  keyword: 'key_556eba1a-5063-4346-bf2c-22cad89dc77d',
+  ref: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
+  keyword: 'key_6d993da5-789d-404d-a60f-eda6cb5c4a92',
   answer: '🙌 Hola bienvenido a este *Chatbot* del Centro de Datos DIRTIC PNP',
   options: {
     media: null,
@@ -96,11 +96,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '8012517ab35510a263230ad354e2ca26'
+  refSerialize: '8d2f9aee0b7615152d52f14a64004cd9'
 }
 [sendQueue_A]:  {
-  ref: 'ans_dc5f5721-6916-4322-a123-d5ebe08c915f',
-  keyword: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
+  ref: 'ans_0414f8d5-210f-40d3-9b07-6f887d606680',
+  keyword: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
   answer: '*cual es su consulta*\n' +
     '👉 *1* Usuario o clave incorecta\n' +
     '👉 *2* Usuario bloqueado\n' +
@@ -128,11 +128,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a9bc68691575f5e34666718ba1778426'
+  refSerialize: 'fed30a10abc70c74c4e58d7480be7994'
 }
 [sendProviderAndSave]:  {
-  ref: 'ans_dc5f5721-6916-4322-a123-d5ebe08c915f',
-  keyword: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
+  ref: 'ans_0414f8d5-210f-40d3-9b07-6f887d606680',
+  keyword: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
   answer: '*cual es su consulta*\n' +
     '👉 *1* Usuario o clave incorecta\n' +
     '👉 *2* Usuario bloqueado\n' +
@@ -160,11 +160,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a9bc68691575f5e34666718ba1778426'
+  refSerialize: 'fed30a10abc70c74c4e58d7480be7994'
 }
 [providerClass.sendMessage]:  {
-  ref: 'ans_dc5f5721-6916-4322-a123-d5ebe08c915f',
-  keyword: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
+  ref: 'ans_0414f8d5-210f-40d3-9b07-6f887d606680',
+  keyword: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
   answer: '*cual es su consulta*\n' +
     '👉 *1* Usuario o clave incorecta\n' +
     '👉 *2* Usuario bloqueado\n' +
@@ -192,11 +192,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a9bc68691575f5e34666718ba1778426'
+  refSerialize: 'fed30a10abc70c74c4e58d7480be7994'
 }
 [databaseClass.save]:  {
-  ref: 'ans_dc5f5721-6916-4322-a123-d5ebe08c915f',
-  keyword: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
+  ref: 'ans_0414f8d5-210f-40d3-9b07-6f887d606680',
+  keyword: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
   answer: '*cual es su consulta*\n' +
     '👉 *1* Usuario o clave incorecta\n' +
     '👉 *2* Usuario bloqueado\n' +
@@ -224,11 +224,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a9bc68691575f5e34666718ba1778426'
+  refSerialize: 'fed30a10abc70c74c4e58d7480be7994'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_dc5f5721-6916-4322-a123-d5ebe08c915f',
-  keyword: 'ans_52ab4c8b-b6f1-40c5-81e7-83887c08eec9',
+  ref: 'ans_0414f8d5-210f-40d3-9b07-6f887d606680',
+  keyword: 'ans_4f19d0e0-49de-45f2-9c64-a7d10c46f3df',
   answer: '*cual es su consulta*\n' +
     '👉 *1* Usuario o clave incorecta\n' +
     '👉 *2* Usuario bloqueado\n' +
@@ -256,220 +256,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a9bc68691575f5e34666718ba1778426'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51949947342@s.whatsapp.net',
-    fromMe: false,
-    id: '4B6402816BAC173643A1766656D0EF97',
-    participant: undefined
-  },
-  messageTimestamp: 1693472157,
-  pushName: 'Heidy',
-  broadcast: false,
-  message: Message {
-    conversation: '3',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '3',
-  from: '51949947342'
-}
-[sendQueue_A]:  {
-  ref: 'ans_a62f25b1-f9db-4c2f-82e0-2e41eb67996a',
-  keyword: 'key_2b10057a-372d-4ec3-9498-8043ace13cfe',
-  answer: '📄 para consultas sobre el funionamiento o correcion de notas informativas cominicarce con CENOPOL - SICPIP.\n' +
-    '980121831\n' +
-    '\n' +
-    '*menu* Para regresar al menu principal.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'abd4e10be989644b79d6dea09b52304a'
-}
-[sendProviderAndSave]:  {
-  ref: 'ans_a62f25b1-f9db-4c2f-82e0-2e41eb67996a',
-  keyword: 'key_2b10057a-372d-4ec3-9498-8043ace13cfe',
-  answer: '📄 para consultas sobre el funionamiento o correcion de notas informativas cominicarce con CENOPOL - SICPIP.\n' +
-    '980121831\n' +
-    '\n' +
-    '*menu* Para regresar al menu principal.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'abd4e10be989644b79d6dea09b52304a'
-}
-[providerClass.sendMessage]:  {
-  ref: 'ans_a62f25b1-f9db-4c2f-82e0-2e41eb67996a',
-  keyword: 'key_2b10057a-372d-4ec3-9498-8043ace13cfe',
-  answer: '📄 para consultas sobre el funionamiento o correcion de notas informativas cominicarce con CENOPOL - SICPIP.\n' +
-    '980121831\n' +
-    '\n' +
-    '*menu* Para regresar al menu principal.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'abd4e10be989644b79d6dea09b52304a'
-}
-[databaseClass.save]:  {
-  ref: 'ans_a62f25b1-f9db-4c2f-82e0-2e41eb67996a',
-  keyword: 'key_2b10057a-372d-4ec3-9498-8043ace13cfe',
-  answer: '📄 para consultas sobre el funionamiento o correcion de notas informativas cominicarce con CENOPOL - SICPIP.\n' +
-    '980121831\n' +
-    '\n' +
-    '*menu* Para regresar al menu principal.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'abd4e10be989644b79d6dea09b52304a'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a62f25b1-f9db-4c2f-82e0-2e41eb67996a',
-  keyword: 'key_2b10057a-372d-4ec3-9498-8043ace13cfe',
-  answer: '📄 para consultas sobre el funionamiento o correcion de notas informativas cominicarce con CENOPOL - SICPIP.\n' +
-    '980121831\n' +
-    '\n' +
-    '*menu* Para regresar al menu principal.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'abd4e10be989644b79d6dea09b52304a'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51949947342@s.whatsapp.net',
-    fromMe: false,
-    id: '073D802CCFD896C812971A700C987639',
-    participant: undefined
-  },
-  messageTimestamp: 1693472174,
-  pushName: 'Heidy',
-  broadcast: false,
-  message: Message {
-    conversation: 'Grac',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Grac',
-  from: '51949947342'
-}
-[sendQueue_A]:  {
-  ref: 'ans_e35d8f1e-fa0a-4d92-ad5f-d9e18b243235',
-  keyword: 'key_bab45f14-6692-44d3-bceb-d69fa8ec7850',
-  answer: 'de nada, DIRTIC PNP trabajando dia a dia para mejorar la atencion.\n@etp',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'eae91436480f74e4ff8fec44e5833a76'
-}
-[sendProviderAndSave]:  {
-  ref: 'ans_e35d8f1e-fa0a-4d92-ad5f-d9e18b243235',
-  keyword: 'key_bab45f14-6692-44d3-bceb-d69fa8ec7850',
-  answer: 'de nada, DIRTIC PNP trabajando dia a dia para mejorar la atencion.\n@etp',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'eae91436480f74e4ff8fec44e5833a76'
-}
-[providerClass.sendMessage]:  {
-  ref: 'ans_e35d8f1e-fa0a-4d92-ad5f-d9e18b243235',
-  keyword: 'key_bab45f14-6692-44d3-bceb-d69fa8ec7850',
-  answer: 'de nada, DIRTIC PNP trabajando dia a dia para mejorar la atencion.\n@etp',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'eae91436480f74e4ff8fec44e5833a76'
-}
-[databaseClass.save]:  {
-  ref: 'ans_e35d8f1e-fa0a-4d92-ad5f-d9e18b243235',
-  keyword: 'key_bab45f14-6692-44d3-bceb-d69fa8ec7850',
-  answer: 'de nada, DIRTIC PNP trabajando dia a dia para mejorar la atencion.\n@etp',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'eae91436480f74e4ff8fec44e5833a76'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e35d8f1e-fa0a-4d92-ad5f-d9e18b243235',
-  keyword: 'key_bab45f14-6692-44d3-bceb-d69fa8ec7850',
-  answer: 'de nada, DIRTIC PNP trabajando dia a dia para mejorar la atencion.\n@etp',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'eae91436480f74e4ff8fec44e5833a76'
+  refSerialize: 'fed30a10abc70c74c4e58d7480be7994'
 }
